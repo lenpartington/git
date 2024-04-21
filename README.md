@@ -1,3 +1,2 @@
 # git
-caca caca
-pipi pipi
+this is test on squash commits
